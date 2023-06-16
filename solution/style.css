@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient( to right, lightblue ,lightgreen);
+}
+.header{
+    text-align: center;
+    margin-top: 50px;
+}
+#inputButtonDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+#input{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+#button{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    cursor: pointer;
+}
+#resetButton{
+    width: 60px;
+    height: 30px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+p {
+    font-size: xx-large;
+    margin-top: 25px;
+}
+.imageDiv{
+    text-align: center;
+    margin-top: 100px;
+}
+img{
+    width: 150px;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}
